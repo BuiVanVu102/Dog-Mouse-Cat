@@ -5,4 +5,4 @@ tiep la git add
 roi git commit 
 
 bai2:
-
+git log la de xem lich su ma da commit nhung j
