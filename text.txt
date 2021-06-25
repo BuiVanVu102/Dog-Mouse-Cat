@@ -6,3 +6,8 @@ roi git commit
 
 bai2:
 git log la de xem lich su ma da commit nhung j
+
+git show 
+
+git diff
+
