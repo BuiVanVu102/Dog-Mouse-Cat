@@ -1,7 +1,7 @@
 bai1: qua trinh hoc git
 dung git thi git init
 xong git status xem
-tiep la git add
+tiep la git addz
 roi git commit 
 
 bai2:
@@ -11,3 +11,15 @@ git show
 
 git diff
 
+bai 3
+working dir(la noi chung ta dang thuc hien tren phan co git hub)
+
+staging age (la noi khi chung ta git add xong)
+
+repository(laphan khi chung ta da git commit)
+
+bai 4
+
+checkout
+
+reset
