@@ -1,0 +1,8 @@
+bai1: qua trinh hoc git
+dung git thi git init
+xong git status xem
+tiep la git add
+roi git commit 
+
+bai2:
+
