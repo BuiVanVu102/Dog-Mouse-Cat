@@ -20,6 +20,30 @@ repository(laphan khi chung ta da git commit)
 
 bai 4
 
-checkout
+checkout (xoa bo 1 so thay do khi chua len staging)
 
-reset
+reset(dua file ve trang thai modifile)
+
+bai 5
+Branging() 
+git checkout -b <branch>(tao nhanh)
+
+git checkout <branch>(chuyen nhanh)
+
+Merging()
+git merge(ghep nhanh)
+
+bai 6
+
+git reset --sort <to_commit> (dua ve phan staging)
+git reset --mixed <to_commit> (dua ve phan working)
+
+git reset --hard (xoa luon)
+
+bai 7: git revert
+git revert <commit> xoa nhung cmt da them o 1 commit nao do
+
+bai 8
+
+gitignore
+
