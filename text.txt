@@ -47,3 +47,21 @@ bai 8
 
 gitignore
 
+bai 9 
+
+git credential
+
+git config --global credential.helper "cache --timeout=number"
+
+(de han che viec go user and password)
+
+bai 10 
+git clone(tai xuong code may a xuong)
+git clone link
+
+git pull
+git pull de xem nhung thay doi may a da lam xong
+
+bai 12
+
+git push a branch 
